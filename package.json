@@ -1,0 +1,7 @@
+{
+  "name": "com.kolodi.scriptable-goodies",
+  "version": "0.0.1",
+  "displayName": "Scriptable Goodies",
+  "type": "library",
+  "hideInEditor": false
+}
