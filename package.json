@@ -1,7 +1,12 @@
 {
   "name": "com.kolodi.scriptable-goodies",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "displayName": "Scriptable Goodies",
   "type": "library",
-  "hideInEditor": false
+  "dependencies": {
+    "com.malee.reorderablelist": "1.0.0"
+  },
+  "hideInEditor": false,
+  "description": "Systems based on scriptable objects. Events.",
+  "unity": "2019.3"
 }
